@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "name": "iphone",
+        "description": "High-quality wireless headphones with noise cancellation.",
+        "image": "https://example.com/images/wireless_headphones.jpg",
+        "price": 99.99,
+        "rating": 4.5,
+        "company":"apple"
+
+    },
+    {
+        "id": 2,
+        "name": "iphone10",
+        "description": "A stylish smartwatch with fitness tracking features.",
+        "image": "https://example.com/images/smartwatch.jpg",
+        "price": 199.99,
+        "rating": 4.7,
+        "company":"apple"
+
+    },
+    {
+        "id": 3,
+        "name": "Bluetooth Speaker",
+        "description":"Portable Bluetooth speaker with excellent sound quality.",
+        "image": "https://example.com/images/bluetooth_speaker.jpg",
+        "price": 49.99,
+        "rating": 4.3,
+        "company":"boat"
+
+    },
+    {
+        "id": 4,
+        "name": "smart watch",
+        "description":"Ergonomic laptop stand for better posture and comfort.",
+        "image": "https://example.com/images/laptop_stand.jpg",
+        "price": 29.99,
+        "rating": 4.6,
+        "company":"boat"
+
+    },
+    {
+        "id": 5,
+        "name": "galexys24 ultra",
+        "description":"High-precision gaming mouse with customizable buttons.",
+        "image": "https://example.com/images/gaming_mouse.jpg",
+        "price": 59.99,
+        "rating": 4.8,
+        "company":"samsung"
+
+    },
+    {
+        "id": 6,
+        "name": "samsung galexy j7",
+        "description": "Ultra HD 4K monitor with vibrant colors.",
+        "image": "https://example.com/images/4k_monitor.jpg",
+        "price": 399.99,
+        "rating": 4.9,
+        "company":"samsung"
+
+    },
+    {
+        "id": 7,
+        "name": "Bluetooth headphone with wire",
+        "description": "Durable mechanical keyboard with customizable RGB lighting.",
+        "image": "https://example.com/images/mechanical_keyboard.jpg",
+        "price": 89.99,
+        "rating": 4.7,
+        "company":"jbl"
+
+    },
+    {
+        "id": 8,
+        "name": "wire headphone",
+        "description": "Track your fitness goals with this advanced fitness tracker.",
+        "image": "https://example.com/images/fitness_tracker.jpg",
+        "price": 49.99,
+        "rating": 4.4,
+        "company":"jbl"
+
+    }
+
+
+]
